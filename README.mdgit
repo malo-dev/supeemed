@@ -1,0 +1,2 @@
+# superMed initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/KaldNet/superMed.gitgit push -u origin main
+# superMed initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/KaldNet/superMed.gitgit push -u origin main
